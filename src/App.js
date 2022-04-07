@@ -86,7 +86,7 @@ function Home() {
            - it makes both our lives easier! Cheers!
         </div>
         <div className="col-7 col-md-7 image-box">
-            <img className="image" src="mine.jpeg" alt="my image"/>
+            <img className="image" src="mine.jpeg" alt="user"/>
         </div>
         </div>
         </div>
