@@ -17,7 +17,7 @@ export function Projects() {
       <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         component="img"
-        alt="green iguana"
+        alt="coding pic"
         height="140"
         image="/screen.jpg"
         
